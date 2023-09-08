@@ -1,0 +1,20 @@
+.send {
+    background-color: limegreen;
+    color: white;
+}
+
+.send:active {
+    background-color: rgb(29, 108, 29);
+}
+
+.col {
+    width: 50%;
+}
+
+.col img {
+    width: 15cm;    
+}
+
+.section-description {
+    margin-bottom: 15px;
+}

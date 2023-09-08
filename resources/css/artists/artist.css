@@ -1,0 +1,20 @@
+.profile {
+    width: 7%;
+    margin: 0 auto;
+    padding: 30px 0px;
+}
+
+.artists .top {
+    display: flex;
+    flex-direction: column;
+}
+
+.artists .top figure {
+    width: 40%;
+    display: inline-block;
+}
+
+.artists.top article {
+    width: 60%;
+    display: inline-block;
+}
